@@ -14,6 +14,6 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/nchteamnch/id-generator#readme",
   "dependencies": {
-    "bsv": "^1.1.0"
+    "bsv": "^2.0.0"
   }
 }
